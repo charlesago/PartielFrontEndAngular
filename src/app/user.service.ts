@@ -36,7 +36,7 @@ export class UserService {
           console.log(localStorage)
         }
       })
-    this.router.navigateByUrl("home").then()
+    this.router.navigateByUrl("scan").then()
   }
 
 }
